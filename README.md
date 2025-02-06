@@ -2,10 +2,6 @@
 
 **`Digital Craftsman (Developer)`**
 
-Here's a professional summary you can use for your GitHub profile:
-
----
-
 👋 Hi, I'm Mohamed a passionate Software Engineering student and a professional Web and Mobile App Developer.
 
 With a solid foundation in software development, I specialize in building efficient, scalable, and user-friendly applications across both web and mobile platforms. I have hands-on experience in modern web technologies like JavaScript, React, Node.js, and frameworks like Angular, as well as mobile development with React Native and Swift.
