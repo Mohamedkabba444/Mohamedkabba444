@@ -72,7 +72,7 @@ Looking for software engineering internship opportunities where I can:
 
 ## 📫 Let's Connect
 
-📧 kabbamohamed444@gmail.com  
+📧 [kabbamohamed444@gmail.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-kabba-233bb03ab/]  
 🌐 Portfolio: (launching soon)
 
