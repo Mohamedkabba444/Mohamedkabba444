@@ -1,67 +1,39 @@
-# 👋 Mohamed Kabba
-**Backend Developer | Computer Science Student | Seeking Summer 2026 Internship**  
-University of the Potomac | Software Engineering  
-📍 Washington, DC
+# Hi, I'm Mohamed Kabba 👋
 
-## 🚀 About Me
-CS student specializing in **backend development and distributed systems**. I build scalable APIs, microservices, and high-performance infrastructure that powers modern applications. Passionate about system design, message queues, and backend architecture.
+**Software Engineering Student · Aspiring Backend Developer**
+📍 Hyattsville, Maryland · 🎯 Seeking a Summer 2027 Software Engineering Internship
 
-**Focus Areas:** Distributed Systems • Microservices • API Architecture • Database Optimization
+## About Me
 
-## 💼 Backend Projects
+I'm a software engineering student at the University of the Potomac focused on backend development with Python. I learn by building — designing APIs, working with relational databases, and picking up cloud fundamentals on AWS.
 
-**Distributed Task Queue System** - Scalable Job Processing  
-Horizontally scalable task queue handling 10,000+ jobs per minute with 99.9% completion rate. Priority queuing, exponential backoff, and dead letter queues.  
-`Python` `RabbitMQ` `Redis` `PostgreSQL` `Docker` `Celery`
+- 🔭 Currently building a **Task Manager API** with FastAPI and PostgreSQL
+- ☁️ Preparing for the **AWS Certified Cloud Practitioner** certification
+- 🌱 Leveling up on REST API design, JWT authentication, pytest, and Docker
 
-**Cloud-Native E-Commerce Backend** - High-Performance REST API  
-Scalable microservice processing 5,000+ requests/minute with Redis caching achieving 40% cache-hit rate and sub-50ms response times.  
-`Node.js` `Express` `PostgreSQL` `Redis` `Stripe` `Docker`
+## Tech Stack
 
-**AI-Powered Study Architect** - RAG Backend API  
-Backend service using Retrieval-Augmented Generation for automated study guide generation. Vector embeddings with pgvector for semantic search.  
-`Python` `FastAPI` `Gemini API` `LangChain` `PostgreSQL` `pgvector`
+**Languages:** Python · Java · SQL
+**Backend:** FastAPI · REST APIs
+**Databases:** PostgreSQL
+**Cloud:** AWS (EC2, S3, Lambda, API Gateway, DynamoDB, IAM) — learning
+**Tools:** Git & GitHub · Linux · Docker (learning)
 
-**Real-Time Collaborative Hub** - WebSocket Backend  
-Backend infrastructure supporting 200+ concurrent users with real-time synchronization. Redis Pub/Sub for message broadcasting across server instances.  
-`Node.js` `Socket.io` `Express` `Redis` `PostgreSQL` `Prisma`
+## Projects
 
-## 💻 Backend Tech Stack
+**[TabSnapshot](https://github.com/Mohamedkabba444/TabSnapshot)** — A lightweight, privacy-first browser extension for capturing and restoring entire browser workspaces with a single click. `JavaScript`
 
-**Languages:** Python, Node.js, Java, Go, SQL  
-**Backend Frameworks:** FastAPI, Flask, Django, Express, NestJS, Spring Boot  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch  
-**Message Queues:** RabbitMQ, Apache Kafka, Redis Pub/Sub, Celery  
-**APIs:** REST, GraphQL, gRPC, WebSocket, OAuth2, JWT  
-**DevOps:** Docker, Kubernetes, Git/GitHub, CI/CD, AWS, Nginx  
-**ORMs & Tools:** Prisma, SQLAlchemy, Hibernate
+**[LinkSnip](https://github.com/Mohamedkabba444/LinkSnip-Modern-URL-Shortener)** — A zero-dependency URL shortener built as a single HTML file that simulates a complete production backend architecture in the browser. `HTML` `JavaScript`
 
-## 🎯 Currently Learning
+**[Portfolio Website](https://github.com/Mohamedkabba444/Portfolio-website)** — My personal portfolio site showcasing my work. `HTML` `CSS`
 
-- Advanced system design patterns (microservices, event-driven architecture, CQRS)
-- Distributed systems and horizontal scaling techniques
-- Message queue optimization and stream processing with Kafka
-- Database performance tuning and query optimization
-- Container orchestration with Kubernetes
-- Cloud infrastructure on AWS (EC2, RDS, Lambda, SQS)
+## Education
 
-## 🔍 Seeking Summer 2026 Internship
+**University of the Potomac** — B.S. CS/Software Engineering (in progress · 78 credits completed · GPA 3.08)
 
-Looking for software engineering internship opportunities where I can:
-- Design and build scalable backend systems
-- Work with microservices and distributed architectures
-- Optimize high-performance APIs and databases
-- Learn from experienced backend and infrastructure engineers
+Relevant coursework: Data Structures and Algorithms · Introduction to Programming I & II · Software Engineering I · Database Organization I & II · Computer Organization and Architecture I · Special Topics in Java I · Object-Oriented Design and Development I · Foundations of Cyber Security · Network Security Management · Introduction to Data Communication and Networking
 
-**Open to:** Backend Engineering, Platform Engineering, Infrastructure Engineering, Distributed Systems
+## Connect
 
-## 📫 Let's Connect
-
-📧 kabbamohamed444@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/mohamed-kabba-2a804631b)  
-🌐 Portfolio: [Your Portfolio URL]  
-📊 LeetCode: [Your LeetCode Profile]
-
----
-
-💡 *"Architecting scalable systems. Building robust infrastructure. Engineering for performance."*
+📧 kabbamohamed444@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-kabba-2a804631b)
